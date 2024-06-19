@@ -44,6 +44,7 @@ _취준생활을 하면서 기록한 잘 작성된 이력서 목록 (주관 100%
 | [지기역](https://jigi-scripts.vercel.app/resume) | 디자인 |
 | [김찬연](https://resume.chayeoi.site/) | 디자인 |
 | [박수빈](https://www.rallit.com/hub/resumes/15901/%EB%B0%95%EC%88%98%EB%B9%88?isExpanded=true) | 깔끔함, 성능 개선, 수치 |
+| [황동준](https://www.rallit.com/hub/resumes/1170864/%ED%99%A9%EB%8F%99%EC%A4%80?isExpanded=true) | 성능 개선, 수치 |
 
 ## 백엔드
 
