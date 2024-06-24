@@ -52,17 +52,17 @@ _취준생활을 하면서 기록한 잘 작성된 이력서 목록 (주관 100%
 
 | resume | etc |
 | ------------- | ------------- |
-| [최파란별](https://www.rallit.com/hub/resumes/239826/%EC%B5%9C%ED%8C%8C%EB%9E%80%EB%B3%84?isExpanded=true) | 자기소개, 성능 개선, 수치 |
-| [박혜정](https://evalog.vercel.app/resume) | 성능 개선, 디자인 |
-| [박시우](https://shiwoo.dev/resume) | 디자인, 프로젝트, 성능 개선 |
-| [지기역](https://jigi-scripts.vercel.app/resume) | 디자인 |
-| [김찬연](https://resume.chayeoi.site/) | 디자인 |
-| [박수빈](https://www.rallit.com/hub/resumes/15901/%EB%B0%95%EC%88%98%EB%B9%88?isExpanded=true) | 깔끔함, 성능 개선, 수치 |
-| [황동준](https://www.rallit.com/hub/resumes/1170864/%ED%99%A9%EB%8F%99%EC%A4%80?isExpanded=true) | 성능 개선, 수치 |
+| [최파란별](https://www.rallit.com/hub/resumes/239826/%EC%B5%9C%ED%8C%8C%EB%9E%80%EB%B3%84?isExpanded=true) | 자기소개가 깔끔하게 잘되어있음. 개선 내용에 대해 수치화가 잘되어있음. |
+| [박혜정](https://evalog.vercel.app/resume) | 성능 개선 경험 어느정도 참고해볼만 함. 사이트 디자인이 잘되어있음. |
+| [박시우](https://shiwoo.dev/resume) | 프로젝트 탭이 분류가 잘되어있어 가독성이 좋음. |
+| [지기역](https://jigi-scripts.vercel.app/resume) | 사이트 디자인이 신박함. 기술 부분에 본인이 다룰 수 있는 범위 간결하게 잘 적음. |
+| [김찬연](https://resume.chayeoi.site/) | 기술 및 활동 간결하게 잘 적음. |
+| [박수빈](https://www.rallit.com/hub/resumes/15901/%EB%B0%95%EC%88%98%EB%B9%88?isExpanded=true) | 간결하고 직관적인 개선 내용과 관련 경험에 대한 적절한 링크. 수치화 잘되어있음. |
+| [황동준](https://www.rallit.com/hub/resumes/1170864/%ED%99%A9%EB%8F%99%EC%A4%80?isExpanded=true) | 성능개선 경험에 대해 수치화가 잘되어있음. |
 
 ## 백엔드
 
 | resume | etc |
 | ------------- | ------------- |
-| [황종욱](https://www.rallit.com/hub/resumes/37400/%ED%99%A9%EC%A2%85%EC%9A%B1?isExpanded=true) | 성능 개선, 수치 |
-| [윤종원](https://www.rallit.com/hub/resumes/49292/%EC%9C%A4%EC%A2%85%EC%9B%90?isExpanded=true) | 성능 개선, 수치, 가독성 |
+| [황종욱](https://www.rallit.com/hub/resumes/37400/%ED%99%A9%EC%A2%85%EC%9A%B1?isExpanded=true) | 성능 개선 경험 많음. 수치화가 잘되어있음.  |
+| [윤종원](https://www.rallit.com/hub/resumes/49292/%EC%9C%A4%EC%A2%85%EC%9B%90?isExpanded=true) | 기여 내용이 간결하고 유의미한 내용. 수치화가 잘되어있음. |
