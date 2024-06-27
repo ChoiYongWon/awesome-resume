@@ -75,6 +75,9 @@ _도움이 되셨다면 star 한번씩 부탁드립니다~_
 | [김찬연](https://resume.chayeoi.site/) | 기술 및 활동 간결하게 잘 적음. |
 | [박수빈](https://www.rallit.com/hub/resumes/15901/%EB%B0%95%EC%88%98%EB%B9%88?isExpanded=true) | 간결하고 직관적인 개선 내용과 관련 경험에 대한 적절한 링크. 수치화 잘되어있음. |
 | [황동준](https://www.rallit.com/hub/resumes/1170864/%ED%99%A9%EB%8F%99%EC%A4%80?isExpanded=true) | 성능개선 경험에 대해 수치화가 잘되어있음. |
+| [마광휘](https://vallista.kr/resume/) | 다룰수 있는 기술을 상세히 잘 적음. |
+| [이현섭](https://hyunseob.github.io/resume/) | 다룰수 있는 기술을 실제 예시를 통해 상세히 잘 적음. |
+
 
 ### 백엔드
 
