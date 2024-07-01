@@ -77,6 +77,7 @@ _도움이 되셨다면 star 한번씩 부탁드립니다~_
 | [황동준](https://www.rallit.com/hub/resumes/1170864/%ED%99%A9%EB%8F%99%EC%A4%80?isExpanded=true) | 성능개선 경험에 대해 수치화가 잘되어있음. |
 | [마광휘](https://vallista.kr/resume/) | 다룰수 있는 기술을 상세히 잘 적음. |
 | [이현섭](https://hyunseob.github.io/resume/) | 다룰수 있는 기술을 실제 예시를 통해 상세히 잘 적음. |
+| [김희태](https://www.heetae.dev/resume/) | 깔끔하고 문제에 대한 해결방안 정리와 이에 대한 결과를 수치화로 잘 표현함.|
 
 
 ### 백엔드
